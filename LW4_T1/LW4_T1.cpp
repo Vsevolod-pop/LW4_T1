@@ -71,7 +71,7 @@ int main()
             break;
         }
     }
-    cout << stroka << endl << sum << endl;
+    cout << "Исходная строка: " << stroka << endl << "Полученная сумма: " << sum << endl;
 }
 
 
