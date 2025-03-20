@@ -25,7 +25,6 @@ int main()
         }
         for (int i = 0; i < stroka.length(); i++)
         {
-            cout << sum << endl;
             if (i == 0 and isdigit(stroka[i]))
             {
                 sum = stroka[i]-48;
